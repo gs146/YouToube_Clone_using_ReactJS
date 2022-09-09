@@ -2,7 +2,7 @@ import React from 'react'
 
 const VideoCard = () => {
   return (
-    <h3>Hoja</h3>
+    <h3>Video card will be here</h3>
   )
 }
 
